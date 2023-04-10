@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../FONT-END"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../responsive"
+		},
+		{
+			"path": "../Javascript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "The Band",
+		"liveServer.settings.port": 5501
+	}
+}

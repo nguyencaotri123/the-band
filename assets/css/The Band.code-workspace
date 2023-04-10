@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../FONT-END"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "The Band"
+	}
+}
